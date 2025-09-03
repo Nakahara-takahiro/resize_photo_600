@@ -1,3 +1,6 @@
+# 直近参照ディレクトリの保存
+config.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
